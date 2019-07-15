@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Inicio_App1</string>
+    <string name="txt_correo">Ingresa correo electronico.</string>
+    <string name="txt_password">Ingresa contraseña.</string>
+    <string name="btn_registrar">REGISTRAR usuario.</string>
+    <string name="btn_loguin"> INICIAR SESION.</string>
+    <string name="txt_usuarios"> USUARIOS.</string>
+</resources>
